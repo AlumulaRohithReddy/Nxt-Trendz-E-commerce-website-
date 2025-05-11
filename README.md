@@ -4,7 +4,7 @@ A fully responsive e-commerce website built with React, simulating a real-world 
 
 ## 🚀 Live Demo
 
-[Click to Visit Live Site](https://nxt-trendz-ecommerce.netlify.app) <!-- Replace with actual link if deployed -->
+[Click to Visit Live Site]([https://nxt-trendz-ecommerce.netlify.app]) <!-- Replace with actual link if deployed -->
 
 ---
 
@@ -39,7 +39,4 @@ A fully responsive e-commerce website built with React, simulating a real-world 
 - ✅ Protected Routes
 - ✅ Logout Flow
 
----
-
-## 🧩 Folder Structure
 
